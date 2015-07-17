@@ -1,3 +1,5 @@
+Author: Rikus
+
 Python plot analysis
 
 Usage:
